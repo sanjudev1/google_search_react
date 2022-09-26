@@ -1,0 +1,5 @@
+/* Write your CSS here */
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
